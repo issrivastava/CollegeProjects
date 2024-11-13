@@ -1,0 +1,23 @@
+SEM III || SE || Second Year || CS || JAVA || Eclipse 
+2024-2025
+Subject: Skill base Lab course: Object Oriented Programming with Java 
+SKL-OOP (JAVA) Mini Project
+Group Course Project 
+Group Name : CodeX
+Title : TicTacToe - Game
+Abstract :
+Game Overview
+ Objective: Players take turns marking a space in a 3x3 grid. The first to get three of their marks in a row (horizontally, vertically, or diagonally) wins.
+Players: Typically two players, one using "X" and the other "O".
+Game Mechanics
+ Grid Representation: A 3x3 grid can be represented using a 2D array or a list of lists in programming. Each cell can hold a value representing empty, "X", or "O".
+Turn Management: Players alternate turns. You can implement this by maintaining a variable that tracks whose turn it is.
+Win Conditions: After each move, check for win conditions:
+Three in a row horizontally: Check each row.
+Three in a row vertically: Check each column.
+Three in a row diagonally: Check the two diagonals.
+Draw Condition: If all cells are filled and no player has won, the game ends in a draw.
+Team Members : 
+1. SHAIKH SIDRA AMJAD ALI (Project Leader)
+2. SOLKAR SIDRA SAMEER
+3. SRIVASTAVA SAGARIKA SHEKHAR
